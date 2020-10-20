@@ -1,0 +1,72 @@
+.navigation{
+    background-color: #f8f8ff;
+    box-shadow: 0 10px 10px -2px rgba(0,0,0,.2);
+}
+
+body{
+    background-color: #f8f8ff;
+}
+li a{
+    color:black;
+    font-size: 18px;
+    border-right-color: black;
+    border-right-width: medium;
+}
+
+li a:hover{
+    color:red;
+    background-color: #b0e0e6;
+}
+
+.active{
+    color:red;
+    background-color: #b0e0e6;
+}
+
+.dropdown-menu{
+    background-color: #f8f8ff;
+}
+
+.dropdown-item:hover{
+    color:red;
+    background-color: #b0e0e6;
+}
+
+.jumbotron{
+    background-color: #b0e0e6;
+    color: #cd5c5c;
+}
+
+.fatblue{
+    border-width:20px;
+    border-color: #b0e0e6;
+}
+
+.fatred{
+    border-width:10px;
+    border-color: #cd5c5c;
+}
+
+#prepdisplay{
+    width:800px;
+    height:1200px;
+}
+
+.autoimage{
+    width:500px;
+    border-style:double;
+    border-width:5px;
+}
+
+.sides{
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+h2{
+   color: #2F4F4F; 
+}
+
+  
